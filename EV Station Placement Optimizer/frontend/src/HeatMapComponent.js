@@ -3,7 +3,7 @@
 // import { HeatmapLayer } from '@deck.gl/aggregation-layers';
 // import { GoogleMapsOverlay } from '@deck.gl/google-maps';
 
-// const GOOGLE_MAPS_API_KEY = 'AIzaSyCdlbJ4sld_viDfM-Qij71UOxtCWKGJv0c';
+// const GOOGLE_MAPS_API_KEY = '';
 
 // const HeatMapComponent = (population) => {
 //   const mapRef = useRef(null);
